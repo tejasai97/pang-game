@@ -1,0 +1,3 @@
+-this is a game written in python
+-this code works in codeskulptor ide
+-go to "http://www.codeskulptor.org/" to play the game
